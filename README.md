@@ -1,7 +1,7 @@
 Hi 👋 My name is Ulrich ALLOSSOU
 ================================
 
-IT consultant, Network security
+Student, IT consultant, Network security
 -------------------------------
 
 * 🌍  I'm based in Moscow
